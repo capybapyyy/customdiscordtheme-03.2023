@@ -2,7 +2,7 @@
 CUSTOM BY carragheenxx ON GITHUB; NOT FOR COMMERCIAL USE. ORIGINAL BY SantanaDesigns.github.io
     by blueb442 (Modified Purpura Palette)
 */
-:root, .theme-light {
+:root, .theme-light, .theme-dark {
 --scroller-color: rgb(186,85,211,0.075);
 --header-primary: #fff!important;
 --header-secondary: #b9bbbe!important;
